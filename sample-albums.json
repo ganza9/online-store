@@ -1,0 +1,17 @@
+{ "albums": [{
+    "title": "Speaking In Tongues",
+    "artist": "Talking Heads",
+    "description": "The fifth studio album by Talking Heads, it is also their highest charting album on the American Billboard 200",
+    "id": "1"
+    }, {
+    "title": "Make It Big",
+    "artist": "Wham!",
+    "description": "Certified 6x Platinum, the album has sold over 10 million copies worldwide.",
+    "id": "2"
+      }, {
+    "title": "Skid Row",
+    "artist": "Skid Row",
+    "description": "Debut studio album from Skid Row produced 3 singles and brought the group nationwide popularity.",
+    "id": "3"
+  }]
+}
